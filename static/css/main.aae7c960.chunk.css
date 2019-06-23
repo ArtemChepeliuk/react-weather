@@ -102,7 +102,7 @@ form button {
 
 .icon-01d,
 .icon-01n {
-  background: url(/static/media/01d.e7055e8b.jpg);
+  background: url(../media/01d.e7055e8b.jpg);
   background-size: cover;
   background-repeat: no-repeat
 }
@@ -119,14 +119,14 @@ form button {
 }
 
 .icon-02d {
-  background: url(/static/media/02d.8bcf049c.jpg);
+  background: url(../media/02d.8bcf049c.jpg);
   background-size: cover;
   background-repeat: no-repeat
 }
 
 .icon-03d,
 .icon-03n {
-  background: url(/static/media/03d.dad529d1.jpg);
+  background: url(../media/03d.dad529d1.jpg);
   background-size: cover;
   background-repeat: no-repeat
 }
@@ -143,13 +143,13 @@ form button {
 }
 
 .icon-04d {
-  background: url(/static/media/04d.438d523f.png);
+  background: url(../media/04d.438d523f.png);
   background-size: cover;
   background-repeat: no-repeat
 }
 
 .icon-10d {
-  background: url(/static/media/10d.2e04318d.jpg);
+  background: url(../media/10d.2e04318d.jpg);
   background-size: cover;
   background-repeat: no-repeat
 }
@@ -165,13 +165,13 @@ form button {
 }
 
 .icon-10n {
-  background: url(/static/media/10n.aa395a92.jpg);
+  background: url(../media/10n.aa395a92.jpg);
   background-size: cover;
   background-repeat: no-repeat
 }
 
 .icon-50n {
-  background: url(/static/media/50n.057e995e.jpg);
+  background: url(../media/50n.057e995e.jpg);
   height: 100vh;
   background-size: cover;
   background-repeat: no-repeat;
